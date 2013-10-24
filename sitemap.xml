@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://Yaritza.github.io/about-me/</loc>
+        <lastmod>2013-10-24T16:41:05-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://Yaritza.github.io/blog/archives/</loc>
         <lastmod>2013-10-21T21:55:31-04:00</lastmod>
     </url>
